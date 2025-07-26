@@ -1,9 +1,9 @@
 # Learning Roadmap
 
 ## Phase 0:
-- [ ] Set up and learn fundementals of vast.ai
-- [ ] Set up and learn fundementals of weights and biases
-- [ ] Set up and learn fundementals of hugging face
+- [x] Set up and learn fundementals of vast.ai
+- [x] Set up and learn fundementals of weights and biases
+- [x] Set up and learn fundementals of hugging face
 - [x] Set up this repo
 - [x] NN from scratch
 - [x] Post blog about nn from scratch
